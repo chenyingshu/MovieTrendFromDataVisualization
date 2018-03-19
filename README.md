@@ -2,11 +2,15 @@
 Movie trend analysis through data visualization: http://i.cs.hku.hk/~yschen/Viz/viz_project_web/
 
 !!!!!!!!
+
 Attention: please connect with the network while browsing the web pages in case of some online visualization invalid.
+
 !!!!!!!!
 
 /************* Overview Part **************/
+
 *index.html - homepage
+
 Includes a fixed menu on the top and 
 related overviews of each part.
 
@@ -14,9 +18,11 @@ Each part has a button into a new detailed page
 *******************************************************************
 
 
-/***************************************/
+
 /************ Detailed Part ***********/
+
 **section2.html
+
 Top movies part
 A fixed menu on the top to skip to other detailed parts.
 
@@ -24,6 +30,7 @@ This part analyze the famous movies and related movies genres to reveal the movi
 *******************************************************************
 
 **section3.html
+
 Awards part
 A fixed menu on the top to skip to other detailed parts.
 
@@ -32,6 +39,7 @@ And to analyze the five movie Awards Fenix, Oscar, SanSebastian, Seminci and Tor
 *******************************************************************
 
 **section4.html
+
 Cast and box office part
 A fixed menu on the top to skip to other detailed parts.
 
@@ -39,6 +47,7 @@ This part analyze cast value according to box office contribution, rating and aw
 *******************************************************************
 
 **section5.html
+
 Movie Words part
 A fixed menu on the top to skip to other detailed parts.
 
@@ -46,17 +55,20 @@ It contains four parts related to cast cooperation (name relation), movie title,
 *******************************************************************
 
 **section6.html
+
 Movie trend part
 A fixed menu on the top to skip to other detailed parts.
 
 Under overall consideration in this project, 10 most potential to be popular movies are showed and analyzed.
 *******************************************************************
-/****************************************/
+
 
 
 
 /************** Complement **************/
+
 ****On the buttom
+
 There is a footer on the buttom to show the creators' information.
 
 Updated on 19/11/2016
