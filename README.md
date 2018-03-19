@@ -3,11 +3,11 @@ Movie trend analysis through data visualization: http://i.cs.hku.hk/~yschen/Viz/
 
 
 
-*!!!!!!!!
+!!!!!!!!
 
-*Attention: please connect with the network while browsing the web pages in case of some online visualization invalid.
+Attention: please connect with the network while browsing the web pages in case of some online visualization invalid.
 
-*!!!!!!!!
+!!!!!!!!
 
 /************* Overview Part **************/
 
